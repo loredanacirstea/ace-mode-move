@@ -1,0 +1,148 @@
+[
+  [
+    {
+      "type": "comment.line.double-slash",
+      "value": "// Double slash"
+    }
+  ],
+  [],
+  [
+    {
+      "type": "comment.line.double-slash",
+      "value": "// Single-line comment"
+    }
+  ],
+  [],
+  [
+    {
+      "type": "comment.block",
+      "value": "/* Asterisk comment */"
+    }
+  ],
+  [],
+  [
+    {
+      "type": "comment.block",
+      "value": "/*"
+    }
+  ],
+  [
+    {
+      "type": "comment.block",
+      "value": " * Multi-line comment"
+    }
+  ],
+  [
+    {
+      "type": "comment.block",
+      "value": " */"
+    }
+  ],
+  [],
+  [
+    {
+      "type": "comment.line.double-slash",
+      "value": "// WIP markers:"
+    }
+  ],
+  [
+    {
+      "type": "comment.line.double-slash",
+      "value": "// "
+    },
+    {
+      "type": "comment.line.doc.documentation.tag.storage.type",
+      "value": "TODO"
+    }
+  ],
+  [
+    {
+      "type": "comment.line.double-slash",
+      "value": "// "
+    },
+    {
+      "type": "comment.line.doc.documentation.tag.storage.type",
+      "value": "FIXME"
+    }
+  ],
+  [
+    {
+      "type": "comment.line.double-slash",
+      "value": "// "
+    },
+    {
+      "type": "comment.line.doc.documentation.tag.storage.type",
+      "value": "XXX"
+    }
+  ],
+  [
+    {
+      "type": "comment.line.double-slash",
+      "value": "// "
+    },
+    {
+      "type": "comment.line.doc.documentation.tag.storage.type",
+      "value": "HACK"
+    }
+  ],
+  [],
+  [
+    {
+      "type": "comment.block",
+      "value": "/*"
+    }
+  ],
+  [
+    {
+      "type": "comment.block",
+      "value": " * WIP markers:"
+    }
+  ],
+  [
+    {
+      "type": "comment.block",
+      "value": " * "
+    },
+    {
+      "type": "comment.block.doc.documentation.tag.storage.type",
+      "value": "TODO"
+    }
+  ],
+  [
+    {
+      "type": "comment.block",
+      "value": " * "
+    },
+    {
+      "type": "comment.block.doc.documentation.tag.storage.type",
+      "value": "FIXME"
+    }
+  ],
+  [
+    {
+      "type": "comment.block",
+      "value": " * "
+    },
+    {
+      "type": "comment.block.doc.documentation.tag.storage.type",
+      "value": "XXX"
+    }
+  ],
+  [
+    {
+      "type": "comment.block",
+      "value": " * "
+    },
+    {
+      "type": "comment.block.doc.documentation.tag.storage.type",
+      "value": "HACK"
+    }
+  ],
+  [
+    {
+      "type": "comment.block",
+      "value": " */"
+    }
+  ],
+  []
+]

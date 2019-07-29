@@ -1,0 +1,21 @@
+// Block = '{' Statement* '}'
+{}
+
+{
+
+}
+
+{
+  let a: u64 = 0;
+}
+
+{
+  let a: u64 = 0;
+  let b: u64 = 1;
+}
+
+{
+  let a: u64 = 0;
+  let b: u64 = 1;
+  let c: u64 = 2;
+}
